@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "556017676647",
+    "project_id": "eb-cuanine-app",
+    "storage_bucket": "eb-cuanine-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556017676647:android:189d4ea12be9f166017fc2",
+        "android_client_info": {
+          "package_name": "com.aistudio.ebcuanine.mnchqz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAPV-fI8Apm8MFor6PV3MkUO2d3MvwdsE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
